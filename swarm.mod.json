@@ -1,0 +1,11 @@
+{
+  "id": "dev.swarmprotocol.comfyui",
+  "name": "Swarm ComfyUI Integration",
+  "version": "0.1.0",
+  "swarmApi": "^0.1.0",
+  "entrypoint": {
+    "type": "worker",
+    "url": "https://comfyui.swarmprotocol.fun/v0.1.0/worker.js"
+  },
+  "permissions": []
+}
